@@ -2,3 +2,4 @@ this is sumit kumar
 age is 24
 gender male
 2nd commit 
+code is strong
